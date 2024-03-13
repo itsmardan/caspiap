@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Bespoke Software &amp; Digital Marketing Solutions: Elevating London-Based Businesses</title>
-    <link>http://localhost:63898/about-us/</link>
+    <link>https://caspia.co.uk/about-us/</link>
     <description>Recent content in About Us on Bespoke Software &amp; Digital Marketing Solutions: Elevating London-Based Businesses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Mar 2024 13:30:08 +1000</lastBuildDate>
-    <atom:link href="http://localhost:63898/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://caspia.co.uk/about-us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:63898/about-us/privacy-policy/</link>
+      <link>https://caspia.co.uk/about-us/privacy-policy/</link>
       <pubDate>Thu, 07 Mar 2024 13:30:08 +1000</pubDate>
-      <guid>http://localhost:63898/about-us/privacy-policy/</guid>
+      <guid>https://caspia.co.uk/about-us/privacy-policy/</guid>
       <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
     </item>
   </channel>

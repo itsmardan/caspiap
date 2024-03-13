@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software and Marketing on Bespoke Software &amp; Digital Marketing Solutions: Elevating London-Based Businesses</title>
-    <link>http://localhost:63898/services/</link>
+    <link>https://caspia.co.uk/services/</link>
     <description>Recent content in Software and Marketing on Bespoke Software &amp; Digital Marketing Solutions: Elevating London-Based Businesses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Feb 2024 19:40:08 +1000</lastBuildDate>
-    <atom:link href="http://localhost:63898/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://caspia.co.uk/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Technology Stack</title>
-      <link>http://localhost:63898/services/tech-stack-caspia/</link>
+      <link>https://caspia.co.uk/services/tech-stack-caspia/</link>
       <pubDate>Wed, 07 Feb 2024 19:40:08 +1000</pubDate>
-      <guid>http://localhost:63898/services/tech-stack-caspia/</guid>
+      <guid>https://caspia.co.uk/services/tech-stack-caspia/</guid>
       <description>Explore trending tools in our essential AI tech toolkit, complete with official links and repositories.</description>
     </item>
     <item>
       <title>AI &amp; Data Insights</title>
-      <link>http://localhost:63898/services/data-machine-learning/</link>
+      <link>https://caspia.co.uk/services/data-machine-learning/</link>
       <pubDate>Wed, 07 Feb 2024 17:30:08 +1000</pubDate>
-      <guid>http://localhost:63898/services/data-machine-learning/</guid>
+      <guid>https://caspia.co.uk/services/data-machine-learning/</guid>
       <description>Boost your projects with our expert AI and ML insights, guiding you to impactful and efficient transformative outcomes.</description>
     </item>
   </channel>
