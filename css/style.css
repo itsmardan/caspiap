@@ -13770,7 +13770,7 @@ body {
   display: none; }
 
 /* The mobile-visible is visible by default, so no need to declare "display: block;" here */
-@media (min-width: 769px) {
+@media (min-width: 768px) {
   /* Hide mobile-specific parts and show desktop-specific parts on desktop */
   .mobile-visible {
     display: none; }
@@ -13785,5 +13785,34 @@ body {
 .mobile-menu.is-active {
   display: block;
   /* Show when active */ }
+
+/* Desktop styles */
+.title {
+  font-size: 42px;
+  /* Smaller desktop font size */ }
+
+.content p {
+  font-size: 22px;
+  /* Smaller desktop font size */ }
+
+.button.button-primary {
+  font-size: 16px;
+  /* Smaller desktop font size */
+  padding: 10px 20px;
+  /* Adjusted desktop padding */ }
+
+/* Responsive styles for mobile */
+@media (max-width: 768px) {
+  .title {
+    font-size: 20px;
+    /* Slightly larger for mobile readability */ }
+  .content p {
+    font-size: 16px;
+    /* Slightly larger for mobile readability */ }
+  .button.button-primary {
+    font-size: 18px;
+    /* Slightly larger for mobile readability */
+    padding: 12px 24px;
+    /* Slightly larger padding for easier interaction */ } }
 
 /*# sourceMappingURL=style.css.map */
