@@ -13778,6 +13778,10 @@ body {
     display: block; }
   /* This will now correctly apply to the main menu */ }
 
+.title {
+  font-size: 24px;
+  font-weight: 800; }
+
 .mobile-menu {
   display: none;
   /* Hide by default */ }
