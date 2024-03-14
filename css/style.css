@@ -13765,4 +13765,25 @@ body {
   padding-left: 20px;
   padding-right: 20px; }
 
+/* Initially hide desktop-specific parts on all views */
+.desktop-visible {
+  display: none; }
+
+/* The mobile-visible is visible by default, so no need to declare "display: block;" here */
+@media (min-width: 769px) {
+  /* Hide mobile-specific parts and show desktop-specific parts on desktop */
+  .mobile-visible {
+    display: none; }
+  .desktop-visible {
+    display: block; }
+  /* This will now correctly apply to the main menu */ }
+
+.mobile-menu {
+  display: none;
+  /* Hide by default */ }
+
+.mobile-menu.is-active {
+  display: block;
+  /* Show when active */ }
+
 /*# sourceMappingURL=style.css.map */
